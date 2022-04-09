@@ -1,5 +1,5 @@
-job('seedjob1') {
+job('seedjob2') {
   steps {
-    shell('echo "Hello World!"')
+    shell('echo "ya this is my second job"')
   }
 }
